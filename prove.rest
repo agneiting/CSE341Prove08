@@ -1,0 +1,3 @@
+#This returns all data gathered for functions in ./controllers/script.js as json data.
+GET http://localhost:8080/professional
+Content-Type: application/json
